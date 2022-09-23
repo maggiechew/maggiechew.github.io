@@ -4,4 +4,9 @@ p {
 
 body {
     background-color: red;
+    
+}
+
+body.img{
+    width: 50%;
 }
