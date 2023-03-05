@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.5f438b5c.css",
-    "main.js": "/static/js/main.1f6a45ec.js",
+    "main.css": "/static/css/main.bf01b3cc.css",
+    "main.js": "/static/js/main.c9378a83.js",
     "static/js/787.3ba5e41c.chunk.js": "/static/js/787.3ba5e41c.chunk.js",
     "static/media/MAGGIE_HS_IU-1.jpg": "/static/media/MAGGIE_HS_IU-1.ba6c59edd07346a92568.jpg",
     "static/media/bw-ads.jpg": "/static/media/bw-ads.5c1a1ef0a10dd846fa6d.jpg",
@@ -9,12 +9,12 @@
     "static/media/Got-Bucked-Headshot.jpg": "/static/media/Got-Bucked-Headshot.e591a96cbfd24fe9f470.jpg",
     "static/media/Law-and-Disorder.png": "/static/media/Law-and-Disorder.b0cff93d05edbec9ccf7.png",
     "index.html": "/index.html",
-    "main.5f438b5c.css.map": "/static/css/main.5f438b5c.css.map",
-    "main.1f6a45ec.js.map": "/static/js/main.1f6a45ec.js.map",
+    "main.bf01b3cc.css.map": "/static/css/main.bf01b3cc.css.map",
+    "main.c9378a83.js.map": "/static/js/main.c9378a83.js.map",
     "787.3ba5e41c.chunk.js.map": "/static/js/787.3ba5e41c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5f438b5c.css",
-    "static/js/main.1f6a45ec.js"
+    "static/css/main.bf01b3cc.css",
+    "static/js/main.c9378a83.js"
   ]
 }
